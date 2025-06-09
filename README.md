@@ -17,7 +17,7 @@ This project is a creative endeavour related to data analysis. Using data on awa
 - Refined understanding of Tableau’s relationship and join function and how they manipulate existing data.
 - Refined ability to produce a meaningful but simple visual, doubling as an effective medium for storytelling through data.
 
-## Data Description (Find the dataset [here](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist?select=manga.csv)
+## Data Description (Find the dataset [here](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist?select=manga.csv))
 
 The MAL dataset contains manga registered (by staff or user consensus) on the MAL website, this particular dataset being up to date as of AUG 2023. The data set contains useful information related to users and the manga itself, including the title (in English, Japanese, and title synonyms), scored by user count, members, favourites, demographics, theme, genre, start data, pictures, and more.
 
@@ -78,7 +78,7 @@ The MAL dataset contains manga registered (by staff or user consensus) on the MA
 
 ## Final Dashboard (Please check out the interactable dashboard [here](https://public.tableau.com/app/profile/shuane.telford/viz/MangaDashboardFINAL/MangaBeeswarm))
 
-<img src="https://github.com/ShuaneTelford/Award-Winning-Manga-Visualisation/blob/main/Images/Manga%20Beeswarm%20Final.png" />
+<img src="https://github.com/ShuaneTelford/Award-winning-manga-data-visualisation/blob/main/Images/Manga%20Beeswarm%20Final.png" />
 
 
 ## Conclusion
