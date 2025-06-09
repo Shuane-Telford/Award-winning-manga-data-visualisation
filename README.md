@@ -76,7 +76,7 @@ The MAL dataset contains manga registered (by staff or user consensus) on the MA
 
 </details>
 
-## Final Dashboard (Please check out the interactable dashboard [here](https://public.tableau.com/app/profile/shuane.telford/viz/MangaDashboardFINAL/MangaBeeswarm)
+## Final Dashboard (Please check out the interactable dashboard [here](https://public.tableau.com/app/profile/shuane.telford/viz/MangaDashboardFINAL/MangaBeeswarm))
 
 <img src="https://github.com/ShuaneTelford/Award-Winning-Manga-Visualisation/blob/main/Images/Manga%20Beeswarm%20Final.png" />
 
